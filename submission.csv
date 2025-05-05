@@ -1,0 +1,6 @@
+timestamp,event,player,receiver,latency
+00:00:01,pass,NONE,NONE,19.335
+00:00:02,goal,NONE,NONE,15.678
+00:00:03,pass,NONE,NONE,16.097
+00:00:04,free kick,NONE,NONE,15.424
+00:00:05,pass ,NONE,NONE,14.426
